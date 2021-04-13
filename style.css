@@ -1,9 +1,17 @@
 body {
     text-align: center;
 }
-#GG {
+
+.GG {
     height: 280px;
+    width: 200px;
 }
-#GG2 {
+
+.GG2 {
     height: 280px;
+    width: 200px;
+}
+
+#myCarousel img {
+    height: 700px;
 }
